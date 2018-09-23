@@ -1,4 +1,3 @@
-# replays
 Shooting Game Replays
 =====================
 
